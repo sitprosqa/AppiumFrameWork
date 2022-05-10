@@ -1,0 +1,62 @@
+{
+  "uid" : "d6e5499ab8f13396",
+  "name" : "Sub",
+  "fullName" : "TestExecution.MainTest.Sub",
+  "historyId" : "7fb9973a7cba994dccd7f66bda2f46fe",
+  "time" : {
+    "start" : 1647520640254,
+    "stop" : 1647520640254,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestExecution.MainTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestExecution.MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sub"
+  }, {
+    "name" : "parentSuite",
+    "value" : "PakRailway"
+  }, {
+    "name" : "suite",
+    "value" : "Pak Railway Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestExecution.MainTest"
+  }, {
+    "name" : "host",
+    "value" : "KHILT-9102"
+  }, {
+    "name" : "thread",
+    "value" : "1132@KHILT-9102.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6e5499ab8f13396.json",
+  "parameterValues" : [ ]
+}

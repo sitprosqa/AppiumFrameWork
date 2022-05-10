@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "PakRailway" >
+
+    <listeners>
+        <listener class-name="ReuseabeComponent.ListenersImplementation"></listener>
+    </listeners>
+    <test name = "PakRailwayTest">
+<groups>
+    <run>
+        <include name="checkintest"></include>
+    </run>
+        </groups>
+        <classes>
+            <class name = "TestExecution.MainTest" />
+        </classes>
+    </test>
+    </suite>

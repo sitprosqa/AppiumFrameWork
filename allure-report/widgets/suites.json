@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "42823e93bfd2a5e9ce94e4860e7973ee",
+    "name" : "PakRailway",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 3,
+      "total" : 6
+    }
+  } ]
+}

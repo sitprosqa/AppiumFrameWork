@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [Thursday 03-February-2022] but found [03/17/2022]",
+      "children" : [ {
+        "name" : "SerchTrains",
+        "uid" : "78fec6ebc67296a1",
+        "parentUid" : "4ce47ca7a80c24d467f960ccd31cb24a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647520640541,
+          "stop" : 1647520703214,
+          "duration" : 62673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ce47ca7a80c24d467f960ccd31cb24a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
